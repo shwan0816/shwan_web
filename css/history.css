@@ -1,0 +1,21 @@
+.history-content {
+  margin: 10px 10px 10px 10px;
+}
+
+.history-content__block {
+  margin: 15px 25px 25px 25px;
+  text-align: justify;
+  letter-spacing: 1px;
+  line-height: 1.4;
+  font-size: 14px;
+}
+
+.history-cotent__title {
+  margin-bottom: 5px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+p {
+  margin-bottom: 10px;
+}

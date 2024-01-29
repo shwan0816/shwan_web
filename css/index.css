@@ -1,0 +1,35 @@
+.title {
+  font-size: 25px;
+  font-weight: light;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.4);
+  border-right: 1px solid rgba(128, 128, 128, 0.4);
+  padding: 10px 10px 10px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.category-1 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.4);
+}
+
+.category-1__block {
+  font-size: small;
+  padding: 15px 10px 15px 10px;
+}
+
+.category-1__text:hover {
+  cursor: pointer;
+}
+
+img {
+  position: absolute;
+  left: 6em;
+  top: 10em;
+  width: 200px;
+  height: 250px;
+}
