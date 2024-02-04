@@ -1,0 +1,40 @@
+.content {
+  padding: 15px 0 0 20px;
+}
+
+.bean51 {
+  margin-bottom: 30px;
+}
+
+.bean__title51 {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  text-align: justify;
+  line-height: 1.3em;
+  width: 200px;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px 15px 10px 10px;
+  background-color: bisque;
+  border-radius: 16px;
+  margin-bottom: 8px;
+  position: relative;
+}
+
+.bean-info {
+  width: 250px;
+  height: 30px;
+  margin-bottom: 15px;
+  font-size: 14px;
+  margin-left: 5px;
+}
+
+.note {
+  padding-bottom: 7px;
+}
+
+.etc {
+  font-size: 12px;
+  margin-left: 5px;
+}
